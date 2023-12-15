@@ -1,0 +1,34 @@
+{
+    "posts": [
+        {
+            "id": 2,
+            "brand": "Samsung",
+            "image": "https://i.dummyjson.com/data/products/3/1.jpg",
+            "description": "Samsung's new variant which goes beyond Galaxy to the Universe"
+        },
+        {
+            "id": 3,
+            "brand": "Huawei",
+            "image": "https://i.dummyjson.com/data/products/5/1.jpg",
+            "description": "MacBook Pro 2021 with mini-LED display may launch between September, November"
+        },
+        {
+            "id": 4,
+            "brand": "Microsoft ",
+            "image": "https://i.dummyjson.com/data/products/8/1.jpg",
+            "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen"
+        },
+        {
+            "id": 5,
+            "brand": "Infinix",
+            "image": "https://i.dummyjson.com/data/products/10/1.jpg",
+            "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty"
+        },
+        {
+            "brand": "Tata Steel",
+            "image": "https://i.dummyjson.com/data/products/13/1.jpg",
+            "description": "Helloo friends :)",
+            "id": 10
+        }
+    ]
+}
